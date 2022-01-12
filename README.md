@@ -1,2 +1,1 @@
-# DevOpsToolsJenkinsProject
-This Projects showcase the demos of various automations tools.
+# THOUGHTWORKS_ASSIGNMENT_DEPLOYMENT_OF_MEDIAWIKI_USING_HELM_CHART_DEPLOYMENT 
